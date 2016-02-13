@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>EPi.Cms.ContainerPages</id>
+    <version>1.0.0.0</version>
+    <title>EPiServer CMS Container pages</title>
+    <authors>Jeroen Slor</authors>
+    <owners>Jeroen Slor</owners>    
+    <projectUrl>https://github.com/jeroenslor/epi-cms-container-pages</projectUrl>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Adds support for container pages</description>    
+    <copyright>Copyright 2016</copyright>
+    <tags>EPiServer</tags>
+	    <dependencies>
+      <dependency id="EPiServer.CMS.UI" version="9.0" />
+    </dependencies>
+  </metadata>
+</package>
